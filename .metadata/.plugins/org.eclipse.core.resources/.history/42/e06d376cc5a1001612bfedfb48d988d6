@@ -1,0 +1,13 @@
+package com.jsb.api.model;
+
+public class Membership {
+	
+	public Membership() {
+		
+	}
+	
+	public Membership(String id, String password) {
+		
+	}
+	
+}
